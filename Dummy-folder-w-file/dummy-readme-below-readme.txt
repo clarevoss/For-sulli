@@ -1,0 +1,1 @@
+This is dummy file that should be sitting one level below README, inside Dummy-folder-w-file
